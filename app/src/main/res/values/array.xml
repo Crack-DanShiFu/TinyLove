@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="adBlockDiv">
+        <item>kz-page-float-layer</item>
+        <item>kz-page-bottom</item>
+        <item>kz-page-ad</item>
+    </string-array>
+</resources>
